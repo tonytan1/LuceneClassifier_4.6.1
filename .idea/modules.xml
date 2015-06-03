@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/trunk/BugAnalysis_LuceneClassifier/BugAnalysis_LuceneClassifier.iml" filepath="$PROJECT_DIR$/trunk/BugAnalysis_LuceneClassifier/BugAnalysis_LuceneClassifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuceneClassifier_4.6.1.iml" filepath="$PROJECT_DIR$/LuceneClassifier_4.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trunk/BugAnalysis_LuceneClassifier/test/test.iml" filepath="$PROJECT_DIR$/trunk/BugAnalysis_LuceneClassifier/test/test.iml" />
+    </modules>
+  </component>
+</project>

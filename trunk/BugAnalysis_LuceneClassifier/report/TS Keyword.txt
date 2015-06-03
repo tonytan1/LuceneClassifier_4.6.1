@@ -1,0 +1,142 @@
+Catalog
+Hierarchical Catalog View
+Subject
+Modult Attribute
+Modult Attribute List
+Region
+Language
+Vender
+Cost Accounting Category
+Task Checklist
+Workflow
+Training Center
+Facility
+Resource
+Policy Template
+Online
+Classroom
+Program
+Credit
+Revision
+Transcript Status
+Composite Program
+Task
+KC
+Knowledge Center
+Enrollment Policy
+Prerequisites
+Basic
+Deadline
+Enrollment Wizard
+Auto Enroll
+Group Enroll
+Group Training Plan
+Transcript
+Certification
+Org
+Org Attribute
+User Group
+Schedule Tasks
+User Profile
+Self Registration
+Search
+Search format
+Search option
+Search Criteria 
+Competency and Job Profile
+Timezone
+User
+User Attributes
+User Action
+Instructors
+Manager
+Custom Langauage String
+CFR
+eSignature
+License
+AICC
+Scorm 1.2
+Scorm 2004
+Version Control
+Payment
+PayFlow
+Chase
+PayDollar
+Datacash
+Payment Plugins
+Ogone
+Token package
+Token package tax rate
+Token Tab
+Token Purchase Invoice Email
+Org Token A/C Transfer
+Payment Plan
+Optional payment items 
+Payment Policy
+Payment Policy
+Payment Policy
+Org payment
+E-Commerce
+Talent
+Proficiency  Level
+Competency Model
+Competency
+Job Profile Catalog
+Job Profile Group
+Job Profile
+Learning Path
+Cert
+Drilldown
+Assessment
+Competency Drilldown 
+Goal Program
+Goal Catetory
+Org Goal
+Performance Goal
+Development Goal
+Goal reminders
+Goal Templates
+Goal Progress
+Goal in appraisal
+Goal Hierarchical diagram.
+Appraisal
+Work flow
+Average Score 
+Plot 9-box
+backdate
+Report
+Report Wizard
+WebEx
+Adobe
+GTT
+Wiki 
+Question Pool
+Exam Pool
+Normal Questions
+Other Questions
+Question Expiry Date
+Exam
+Taking Exam
+Exam results
+Scan Level 
+HTML Sanitizer
+Encryption
+Org Permission
+User transcript details Permission
+Learning Modules Permission
+Repository Permission
+Transcript Status
+Repository
+Term of use
+License Control
+WYSIWYG Editors
+Background Task Monitor
+CSV
+API
+email
+Template
+mEKP
+Mobile
+Domain
+UMA
+Equivalency

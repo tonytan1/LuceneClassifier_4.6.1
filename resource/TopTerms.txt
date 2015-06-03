@@ -1,0 +1,21 @@
+>>> top 20 terms: 
+1:user(96);
+2:error(68);
+3:when(66);
+4:report(59);
+5:issue(52);
+6:re(52);
+7:course(49);
+8:exam(49);
+9:learning(49);
+10:program(42);
+11:ref(42);
+12:impl(39);
+13:enrollment(37);
+14:from(35);
+15:session(33);
+16:module(32);
+17:records(32);
+18:tcc(32);
+19:ekp(30);
+20:page(30);

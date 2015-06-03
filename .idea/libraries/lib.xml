@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-classification-4.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-analyzers-common-4.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-queryparser-4.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-core-4.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.10-FINAL-20140208.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

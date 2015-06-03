@@ -1,0 +1,13 @@
+Search keyword:permissions
+Matched:11
+0:Score=2.694646;Ticket Id=10219;Subject=Assessment Workflow Permissions;
+1:Score=2.694646;Ticket Id=11710;Subject=System Administrator User Permissions;
+2:Score=2.694646;Ticket Id=3074;Subject=Role Granting Permissions Glitch;
+3:Score=2.3578153;Ticket Id=7083;Subject=PHS - Supervisor Assessment Change permissions;
+4:Score=2.0209844;Ticket Id=11331;Subject=Nuffield - Catalog List Maintenance permissions issue;
+5:Score=2.0209844;Ticket Id=12376;Subject=Permissions Issue in scheduled reports and user editor;
+6:Score=2.0209844;Ticket Id=12896;Subject=Problems with exam pool and question pool permissions;
+7:Score=2.0209844;Ticket Id=13845;Subject=User Data Loader: Permissions bug during upload;
+8:Score=2.0209844;Ticket Id=1652;Subject=User Role Permissions to perform enrollments - MetLife;
+9:Score=1.6841537;Ticket Id=1260;Subject=IGNL - No Permissions on Learning Object but able to include it into a Program Session;
+10:Score=1.6841537;Ticket Id=3127;Subject=setting permissions so user can choose his org for reporting;
